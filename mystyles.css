@@ -1,0 +1,37 @@
+.profilepic {
+    height: 800px;
+    width: auto;
+    object-fit: contain;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif ;
+    color: rgb(29, 27, 24);
+}
+
+.background {
+    background-color: rgb(255, 251, 244);
+}
+
+.images {
+    height: 400px;
+    width: auto;
+    object-fit: fill;
+}
+
+.center {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+body {
+    background-image: url(../images/background.jpg);
+}
+
+.mainheader{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color:rgb(255, 251, 244);
+    text-align: left;
+}
+

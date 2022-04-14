@@ -1,0 +1,47 @@
+.navigation{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    background-color: beige;
+    text-align: right;
+    position: absolute;
+}
+
+.tab{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+    position: absolute;
+    padding-bottom: 5px;
+}
+
+.tabfooter{
+    bottom: 5px;
+    height: 100px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    background-color: beige;
+    text-align: center;
+    position: fixed;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: smaller;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color:rgb(29, 27, 24);
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: large;
+    background-color: beige;
+}
